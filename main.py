@@ -11,6 +11,10 @@ def print_hi(name):
 def say_hi():
     print('oooe')
 
+
+def check_me():
+    pass
+
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print_hi('PyCharm')
